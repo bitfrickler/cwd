@@ -1,4 +1,3 @@
-;#RequireAdmin
 #AutoIt3Wrapper_Change2CUI=y
 
 #include <Array.au3>
